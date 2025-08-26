@@ -1,0 +1,12 @@
+:root {
+  --radius-md: 8px;
+  --radius-lg: 12px;
+
+  --shadow-sm: 0 1px 3px rgba(0,0,0,.12);
+  --shadow-md: 0 4px 10px rgba(0,0,0,.18);
+  --shadow-lg: 0 10px 24px rgba(0,0,0,.2);
+
+  --ring-color: rgba(59,130,246,.6); /* default focus ring */
+  --ring-width: 2px;
+  --ring-offset: 2px;
+}
